@@ -1,0 +1,23 @@
+{
+  "name": "goatcheese",
+  "version": "1.0.0",
+  "description": "Goatcheese website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/natanloterio/goatcheese.git"
+  },
+  "author": "natanloterio.com.br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natanloterio/goatcheese/issues"
+  },
+  "homepage": "https://github.com/natanloterio/goatcheese#readme",
+  "dependencies": {
+    "http": "0.0.1-security",
+    "http-server": "^0.12.3"
+  }
+}
