@@ -10520,3 +10520,7 @@ section#contact form#contactForm :-ms-input-placeholder {
    minus half of the width and minus half of the height 
   */
 }
+
+.service-icon {
+  width: 57px;;
+}
